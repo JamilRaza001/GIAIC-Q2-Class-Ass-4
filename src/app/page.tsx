@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="grid grid-rows-[100px_200px_200px_100px] grid-cols-4 gap-2">
